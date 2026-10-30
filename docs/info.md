@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+It adds a and b and writes the result to r with c as carry.
 ## How to test
 
-Explain how to use your project
+Just plug values to a and b
 
 ## External hardware
 
